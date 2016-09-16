@@ -2,7 +2,7 @@ import React, { PropTypes } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import * as ownerActions from '../../actions/ownerActions';
-
+import OwnerList from './OwnerList';
 
 class DashboardPage extends React.Component {
   constructor(props, context) {
@@ -18,10 +18,12 @@ class DashboardPage extends React.Component {
   }
 
   render() {
+    const {owners} = this.props;
+
     return (
       <div>
         <h1>Dashboard</h1>
-        {this.props.owners.map(this.ownerRow)}
+        <OwnerList owners={owners}/>
       </div>
     );
   }
