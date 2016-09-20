@@ -13,7 +13,7 @@ const owners = [
         vegas: 10.5,
         conference_odds: "11-2",
         superbowl_odds: "10-1",
-        wins: 1,
+        wins: 2,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -49,7 +49,7 @@ const owners = [
         vegas: 7.5,
         conference_odds: "30-1",
         superbowl_odds: "70-1",
-        wins: 0,
+        wins: 1,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -73,7 +73,7 @@ const owners = [
         vegas: 8,
         conference_odds: "30-1",
         superbowl_odds: "60-1",
-        wins: 0,
+        wins: 1,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -85,7 +85,7 @@ const owners = [
         vegas: 8,
         conference_odds: "13-1",
         superbowl_odds: "25-1",
-        wins: 1,
+        wins: 2,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -121,7 +121,7 @@ const owners = [
         vegas: 7,
         conference_odds: "40-1",
         superbowl_odds: "80-1",
-        wins: 0,
+        wins: 1,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -142,7 +142,7 @@ const owners = [
         vegas: 9.5,
         conference_odds: "13-2",
         superbowl_odds: "12-1",
-        wins: 0,
+        wins: 1,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -154,7 +154,7 @@ const owners = [
         vegas: 10.5,
         conference_odds: "13-4",
         superbowl_odds: "7-1",
-        wins: 1,
+        wins: 2,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -178,7 +178,7 @@ const owners = [
         vegas: 9.5,
         conference_odds: "12-1",
         superbowl_odds: "30-1",
-        wins: 1,
+        wins: 2,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -190,7 +190,7 @@ const owners = [
         vegas: 9,
         conference_odds: "7-1",
         superbowl_odds: "15-1",
-        wins: 1,
+        wins: 2,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -214,7 +214,7 @@ const owners = [
         vegas: 8.5,
         conference_odds: "22-1",
         superbowl_odds: "40-1",
-        wins: 1,
+        wins: 2,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -226,7 +226,7 @@ const owners = [
         vegas: 7.5,
         conference_odds: "35-1",
         superbowl_odds: "80-1",
-        wins: 1,
+        wins: 2,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -238,7 +238,7 @@ const owners = [
         vegas: 7,
         conference_odds: "38-1",
         superbowl_odds: "80-1",
-        wins: 0,
+        wins: 1,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -283,7 +283,7 @@ const owners = [
         vegas: 10.5,
         conference_odds: "6-1",
         superbowl_odds: "10-1",
-        wins: 0,
+        wins: 1,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -319,7 +319,7 @@ const owners = [
         vegas: 9.5,
         conference_odds: "15-1",
         superbowl_odds: "30-1",
-        wins: 0,
+        wins: 1,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -343,7 +343,7 @@ const owners = [
         vegas: 8.5,
         conference_odds: "17-1",
         superbowl_odds: "35-1",
-        wins: 1,
+        wins: 2,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
@@ -379,7 +379,7 @@ const owners = [
         vegas: 7.5,
         conference_odds: "50-1",
         superbowl_odds: "100-1",
-        wins: 0,
+        wins: 1,
         playoff_wins: 0,
         conference_wins: 0,
         superbowl_wins: 0
